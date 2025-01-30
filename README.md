@@ -1,7 +1,7 @@
 # Practica_GIT DSS
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
-Empleo git reset --hard HEAD~1 para eliminar el último commit. Este comando, además, elimina los cambios en Working Copy (WC) y Staging Area (SA). Con git reset --soft HEAD~1 eliminaríamos el commit, pero mantendríamos los cambios.
+Empleo git reset -- hard HEAD~1 para eliminar el último commit. Este comando, además, elimina los cambios en Working Copy (WC) y Staging Area (SA). Con git reset --soft HEAD~1 eliminaríamos el commit, pero mantendríamos los cambios.
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 

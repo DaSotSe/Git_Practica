@@ -2,6 +2,7 @@
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
 Empleo git reset dobleguión  hard HEAD~1 para eliminar el último commit. Este comando, además, elimina los cambios en Working Copy (WC) y Staging Area (SA). Con git reset dobleguión soft HEAD~1 eliminaríamos el commit, pero mantendríamos los cambios.
+Podriamos tambien optar por realizar un git reset Head-1 y posteriormente hacer un git restore en segundo lugar.
 
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
 
